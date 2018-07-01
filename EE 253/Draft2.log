@@ -1,0 +1,22 @@
+Circuit: * C:\Users\Happy\Desktop\Circuit SImulations\EE 253\Draft2.asc
+
+u1:vx1: Missing value, assumed 0V @ DC
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Sep 11 21:01:26 2017
+Total elapsed time: 0.131 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3083
+traniter = 3054
+tranpoints = 1250
+accept = 1182
+rejected = 68
+matrix size = 75
+fillins = 57
+solver = Normal
+Matrix Compiler1: 6.34 KB object code size  1.4/0.7/[0.3]
+Matrix Compiler2: 6.74 KB object code size  0.5/0.8/[0.3]
+

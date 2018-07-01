@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Happy\Desktop\Circuit SImulations\EE 253\Draft3.asc
+
+.OP point found by inspection.
+
+Date: Mon Sep 11 20:37:24 2017
+Total elapsed time: 11.104 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 6048494
+traniter = 6048494
+tranpoints = 1927989
+accept = 1316220
+rejected = 611769
+matrix size = 6
+fillins = 0
+solver = Normal
+Matrix Compiler1: 236 bytes object code size  0.1/0.1/[0.0]
+Matrix Compiler2: off  [0.1]/0.1/0.1
+

@@ -1,0 +1,12 @@
+* C:\Users\Happy\Desktop\Circuit SImulations\Draft5.asc
+V1 vin 0 SINE(0 7 1k)
+R1 VOUT vin 1k
+D1 VOUT N002 1N4148
+D2 N001 VOUT 1N4148
+V2 N002 0 4.7
+V3 0 N001 4.7
+.model D D
+.lib C:\Users\Happy\Documents\LTspiceXVII\lib\cmp\standard.dio
+.tran 2m
+.backanno
+.end
